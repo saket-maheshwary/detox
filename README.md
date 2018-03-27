@@ -15,7 +15,8 @@ This repo demonstrates the implementation of a model that is capable of detectin
 
 ### Dataset
 
-**data.csv** utilizes the training file obtained from [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data). It contains **159571** comments. The dataset contains large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are: toxic, severe_toxic, obscene, threat, insult and identity_hate.
+In this repo **data.csv** utilizes the training file obtained from [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data). It contains **159571** comments. The dataset contains large number of Wikipedia comments which have been labeled by human raters for toxic behavior. 
+The types of toxicity are: toxic, severe_toxic, obscene, threat, insult and identity_hate.
 
 ### Feature Engineering
 I have broadly categorized my feature engineering ideas into 3 groups.
