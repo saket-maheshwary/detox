@@ -23,7 +23,7 @@ I have broadly categorized my feature engineering ideas into 3 groups.
 
 * **Features based on text statistics :** Count of sentences, Count of words, Count of punctuations, Diversity Count, Stopword count, Count of uppercase words, Average length of each word
 
-* **Sentiment based features using [Pattern library of CLiPS](https://github.com/clips/pattern) :** Subjectivity and Polarity
+* **Sentiment based features using Pattern library of CLiPS :** Subjectivity and Polarity
 
 ### Results
 The results are reported on Linear SVM classifier after 5 fold cross vaidation.
