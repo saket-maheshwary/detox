@@ -4,8 +4,8 @@ The term “toxic comment” indicates a rude, disrespectful or an unreasonable 
 
 ## Dependencies
 
-* **Scikit-learn** for modelling
-* **NLTK** for POS tagging
+* **[Scikit-learn](http://scikit-learn.org/stable/install.html)** for modelling
+* **[NLTK](https://www.nltk.org/install.htmlhttps://www.nltk.org/)** for POS tagging
 * **[Pattern library](https://github.com/clips/pattern)** for Polarity and Subjectivity features
 
 
