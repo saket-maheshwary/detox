@@ -21,9 +21,7 @@ The types of toxicity are: toxic, severe_toxic, obscene, threat, insult and iden
 ### Feature Engineering
 I have broadly categorized my feature engineering ideas into 3 groups.
 * **N-gram based features :** Word n-gram (unigram, bigram and trigram), Char n-gram (upto 5 gram) and POS n-gram (unigram and bigram)
-
 * **Features based on text statistics :** Count of sentences, Count of words, Count of punctuations, Diversity Count, Stopword count, Count of uppercase words, Average length of each word
-
 * **Sentiment based features using Pattern library of CLiPS :** Subjectivity and Polarity
 
 ### Results
