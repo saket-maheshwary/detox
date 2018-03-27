@@ -29,6 +29,6 @@ I have broadly categorized my feature engineering ideas into 3 groups.
 
 ### Results
 The results are reported on Linear SVM classifier after 5 fold cross vaidation.
-![Results](https://drive.google.com/file/d/1zieYjbT_pSkTHoFdS2z-dN1FDKi5wGo_/view?usp=sharing)
+
 
 
