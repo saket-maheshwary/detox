@@ -5,9 +5,7 @@ The term “toxic comment” indicates a rude, disrespectful or an unreasonable 
 ## Dependencies
 
 * **Scikit-learn** for modelling
-
 * **NLTK** for POS tagging
-
 * **[Pattern library](https://github.com/clips/pattern)** for Polarity and Subjectivity features
 
 
@@ -19,7 +17,7 @@ This repo demonstrates the implementation of a model that is capable of detectin
 
 **data.csv** utilizes the training file obtained from [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data). It contains **159571** comments. It contains large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are: toxic, severe_toxic, obscene, threat, insult and identity_hate.
 
-### Features
+### Feature Engineering
 I have broadly categorized my feature engineering ideas into 3 groups.
 * **N-gram based features :** Word n-gram (unigram, bigram and trigram), Char n-gram (upto 5 gram) and POS n-gram (unigram and bigram)
 
