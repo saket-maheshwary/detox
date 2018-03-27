@@ -26,7 +26,7 @@ I have broadly categorized my feature engineering ideas into 3 groups.
 * **Sentiment based features using Pattern library of CLiPS :** Subjectivity and Polarity
 
 ### Results
-The results are reported on Linear SVM classifier after 5 fold cross vaidation.
+The results shown below are reported on Linear SVM classifier after 5 fold cross vaidation.
 
 <img width="572" alt="screen shot 2018-03-27 at 5 46 57 am" src="https://user-images.githubusercontent.com/4180286/37997881-15f18aea-323a-11e8-96c6-2daf70e4fc4e.png">
 
