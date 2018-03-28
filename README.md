@@ -8,7 +8,7 @@ The term “toxic comment” indicates a rude, disrespectful or an unreasonable 
 * **[NLTK](https://www.nltk.org/install.htmlhttps://www.nltk.org/)** for POS tagging
 * **[Pattern library](https://github.com/clips/pattern)** for Polarity and Subjectivity features
 * **[Pandas](https://pandas.pydata.org/)** for data manipulation
-* **[Numpy](http://www.numpy.org/)** 
+* **[Numpy](http://www.numpy.org/)** for performing mathematical operations
 
 ## How to Run
 ```
