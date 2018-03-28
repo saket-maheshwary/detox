@@ -25,13 +25,20 @@ In this repo **data.csv** utilizes the training file obtained from [Kaggle](http
 The types of toxicity are: toxic, severe_toxic, obscene, threat, insult and identity_hate.
 
 ### Feature Engineering
+
 I have broadly categorized my feature engineering ideas into 3 groups.
 * **N-gram based features :** Word n-gram (unigram, bigram and trigram), Char n-gram (upto 5 gram) and POS n-gram (unigram and bigram)
 * **Features based on text statistics :** Count of sentences, Count of words, Count of punctuations, Diversity Count, Stopword count, Count of uppercase words, Average length of each word
 * **Sentiment based features using Pattern library of CLiPS :** Subjectivity and Polarity
 
 ### Results
+
 The results shown below are reported on Linear SVM classifier after 5 fold cross vaidation.
 
 <img width="572" alt="screen shot 2018-03-27 at 5 46 57 am" src="https://user-images.githubusercontent.com/4180286/37997881-15f18aea-323a-11e8-96c6-2daf70e4fc4e.png">
+
+## Next Steps (In Progress)
+
+* GloVe Embeddings 
+* LSTM
 
