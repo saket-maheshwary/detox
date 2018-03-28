@@ -6,7 +6,7 @@ The term “toxic comment” indicates a rude, disrespectful or an unreasonable 
 
 * **[Scikit-learn](http://scikit-learn.org/stable/install.html)** for modelling
 * **[NLTK](https://www.nltk.org/install.htmlhttps://www.nltk.org/)** for POS tagging
-* **[Pattern library](https://github.com/clips/pattern)** for Polarity and Subjectivity features
+* **[Pattern library](https://github.com/clips/pattern)** for extracting polarity and subjectivity features
 * **[Pandas](https://pandas.pydata.org/)** for data manipulation
 * **[Numpy](http://www.numpy.org/)** for performing mathematical operations
 
