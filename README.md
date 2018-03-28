@@ -17,11 +17,11 @@ python toxic_comment.py
 
 ## Implementation Details
 
-This repo demonstrates the implementation of a model that is capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate. This model was able to achieve ROC AUC score of **0.95** after 5 fold cross validation. 
+This repo demonstrates the implementation of a model that is capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate in the comments. This model was able to achieve ROC AUC score of **0.95** after 5 fold cross validation. 
 
 ### Dataset
 
-In this repo **data.csv** utilizes the training file obtained from [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data). It contains **159571** comments. The dataset contains large number of Wikipedia comments which have been labeled by human raters for toxic behavior. 
+In this repo, **data.csv** utilizes the training file obtained from [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data). It contains **159571** comments. The dataset contains large number of Wikipedia comments which have been labeled by human raters for toxic behavior. 
 The types of toxicity are: toxic, severe_toxic, obscene, threat, insult and identity_hate.
 
 ### Feature Engineering
