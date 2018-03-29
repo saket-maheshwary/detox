@@ -17,7 +17,7 @@ python toxic_comment.py
 
 ## Implementation Details
 
-This repo demonstrates the implementation of a model that is capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate in the comments. This model was able to achieve ROC AUC score of **0.95** after 5 fold cross validation. 
+This repo demonstrates the implementation of a model that is capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate in the comments. This model was able to achieve ROC AUC score of **0.95** after 5 fold cross validation. ROC AUC was the preferred metric choice over accuracy due to class imbalance problem.
 
 ### Dataset
 
